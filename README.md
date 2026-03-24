@@ -1,2 +1,1 @@
-# practica-git
-asd
+Linea inicial en rama1
